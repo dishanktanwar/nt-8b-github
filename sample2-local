@@ -1,0 +1,1 @@
+ The first part of the formula (TODAY()-B2) returns the difference between the current date and date of birth is days, and then you divide that number by 365 to get the numbers of years

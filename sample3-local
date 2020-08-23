@@ -1,0 +1,3 @@
+Drawbacks: Using this age formula in Excel produces pretty accurate results, but not flawless. 
+Dividing by the average number of days in a year works fine most of the time, but sometimes it gets the age wrong. For example, if someone was born on February 29 and today is February 28, 
+the formula will make a person one day older.
